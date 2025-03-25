@@ -1,0 +1,23 @@
+{
+    "model": "actionButton",
+    "srcType": "sanity",
+    "srcProjectId": "fjzgvf61:production",
+    "presets": [
+        {
+            "label": "1",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "circle"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "1",
+                "url": null,
+                "ariaLabel": null,
+                "theme": "primary"
+            }
+        }
+    ]
+}
